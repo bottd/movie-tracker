@@ -15,4 +15,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Home Page image](./src/assets/movie_tracker_home.png "Home Page")
 
 ### Wireframe
-![Wireframe image](./src/assets/movie_tracker_wireframe.jpg "Wireframe")
+![Wireframe image](./src/assets/movie_tracker_description.png "Movie View")
