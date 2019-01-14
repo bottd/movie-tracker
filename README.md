@@ -1,6 +1,8 @@
 # Movie Tracker:
 Movie Tracker is an application designed to allow users to view information about movies currently playing. It utilizes the Movie Database API to collect movie data, and is built primarily using React.js and Redux.
 
+Deployed [here](https://bottd.github.io/movie-tracker/)
+
 ## Team Members:
 Alex Bruce, Drake Bott, & Alex Ela
 
